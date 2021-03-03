@@ -1,0 +1,15 @@
+[{
+    "id": "1",
+    "name": "Delta 8 Gummies",
+    "price": 19.99,
+    "image": "/images/delta8.jpg",
+    "description": "These gummies are lit!'",
+    "url": "http://delta8.netlify.com"
+}, {
+    "id": "2",
+    "name": "Delta 8 Cart",
+    "description": "Yes we got it!",
+    "price": 49.99,
+    "image": "/images/cart.png",
+    "url": "http://delta8.netlify.com"
+}]
